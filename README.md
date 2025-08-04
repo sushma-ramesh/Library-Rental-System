@@ -17,19 +17,19 @@ A real-world Library Rental Management System built using **Java**, **Hibernate 
 LibraryRentalSystem/
 # ├── src/
 # │ ├── entity/
-# │ │ ├── Book.java
-# │ │ ├── Member.java
-# │ │ └── Rental.java
+  │ │ ├── Book.java
+  │ │ ├── Member.java
+  │ │ └── Rental.java
 # │ ├── dao/
-# │ │ ├── BookDAO.java
-# │ │ ├── MemberDAO.java
-# │ │ └── RentalDAO.java
+  │ │ ├── BookDAO.java
+  │ │ ├── MemberDAO.java
+  │ │ └── RentalDAO.java
 # │ ├── util/
-# │ │ └── HibernateUtil.java
+  │ │ └── HibernateUtil.java
 # │ ├── main/
-# │ │ └── LibraryApp.java
+  │ │ └── LibraryApp.java
 # ├── resources/
-# │ └── hibernate.cfg.xml
+  │ └── hibernate.cfg.xml
 # └── README.md
 
 ---
