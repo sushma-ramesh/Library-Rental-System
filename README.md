@@ -14,7 +14,8 @@ A real-world Library Rental Management System built using **Java**, **Hibernate 
 ---
 
 ## 📦 Folder Structure
-``` LibraryRentalSystem/
+```
+ LibraryRentalSystem/
     ├── src/
     │   ├── entity/
     │   │   ├── Book.java
@@ -30,7 +31,8 @@ A real-world Library Rental Management System built using **Java**, **Hibernate 
     │   │   └── LibraryApp.java
     ├── resources/
     │   └── hibernate.cfg.xml
-    └── README.md ```
+    └── README.md
+ ```
 
 
 ---
