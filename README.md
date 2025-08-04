@@ -14,4 +14,23 @@ A real-world Library Rental Management System built using **Java**, **Hibernate 
 ---
 
 ## 📦 Folder Structure
+LibraryRentalSystem/
+├── src/
+│ ├── entity/
+│ │ ├── Book.java
+│ │ ├── Member.java
+│ │ └── Rental.java
+│ ├── dao/
+│ │ ├── BookDAO.java
+│ │ ├── MemberDAO.java
+│ │ └── RentalDAO.java
+│ ├── util/
+│ │ └── HibernateUtil.java
+│ ├── main/
+│ │ └── LibraryApp.java
+├── resources/
+│ └── hibernate.cfg.xml
+└── README.md
+
+
 
