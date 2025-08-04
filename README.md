@@ -63,7 +63,7 @@ LibraryRentalSystem/
 2. Create database schema in MySQL:
   CREATE DATABASE librarydb;
 
-3.Compile & Run the LibraryApp main class.
+3.Compile and Run the LibraryApp main class.
 
 
 
