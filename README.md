@@ -32,5 +32,36 @@ LibraryRentalSystem/
 │ └── hibernate.cfg.xml
 └── README.md
 
+---
+
+## ⚙️ Tech Stack
+
+- **Java 17+**
+- **Hibernate ORM**
+- **HQL (Hibernate Query Language)**
+- **MySQL** (or any RDBMS)
+- **Maven** (Optional for dependency management)
+
+---
+
+## 🛠 Setup Instructions
+
+### ✅ Prerequisites
+- JDK 17+
+- MySQL
+- Hibernate 5.x
+- Any IDE (IntelliJ, Eclipse)
+
+### 🔧 Configuration
+
+1. Update `hibernate.cfg.xml` with your MySQL database credentials:
+```xml
+<property name="connection.url">jdbc:mysql://localhost:3306/librarydb</property>
+<property name="connection.username">root</property>
+<property name="connection.password">your_password</property>
+
+2. Create database schema in MySQL:
+  CREATE DATABASE librarydb;
+
 
 
